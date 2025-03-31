@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "userName": "ARE AWESOME",
+    "description": "NEXTJS 13 & SWIPER SLIDER",
+    "userProfile": "/placeholder-user.png",
+    "rate": 5,
+    "days": 5
+  },
+  {
+    "id": 2,
+    "userName": "ARE AWESOME",
+    "description": "NEXTJS 13 & SWIPER SLIDER",
+    "userProfile": "/placeholder-user.png",
+    "rate": 3,
+    "days": 5
+  },
+  {
+    "id": 3,
+    "userName": "ARE AWESOME",
+    "description": "NEXTJS 13 & SWIPER SLIDER",
+    "userProfile": "/placeholder-user.png",
+    "rate": 4,
+    "days": 5
+  }
+]
